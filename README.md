@@ -6,15 +6,6 @@ Gizmox is a tiny cross-platform CLI with small utilities I find useful day to da
 
 ---
 
-## Installation
-
-- Grab the latest release from [Releases](https://github.com/robert-harbison/Gizmox-CLI/releases)
-- Drop the binary somewhere in your system's `PATH`
-
-Now you can run `gm` from your terminal.
-
----
-
 ## Commands
 
 ### `copy-rename`
